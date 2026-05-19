@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Smart Health AI</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+<style>
+.btn-login{
+background:#f97316;
+color:white;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>💊 Smart Health AI</h1>
+<p style="text-align:center;">Sistem Rekomendasi Obat Berbasis AI</p>
+
+<form action="/predict" method="POST">
+
+<input type="text" name="nama" placeholder="Nama Pasien" required>
+
+<input type="number" name="umur" placeholder="Umur" required>
+
+<select name="gender" required>
+<option value="">Pilih Gender</option>
+<option value="Laki-laki">Laki-laki</option>
+<option value="Perempuan">Perempuan</option>
+</select>
+
+<textarea name="gejala" placeholder="Tulis gejala..." required></textarea>
+
+<select name="alergi">
+<option value="Tidak">Tidak</option>
+<option value="Penisilin">Penisilin</option>
+</select>
+
+<button type="submit" class="btn-primary">
+🔍 Analisis AI
+</button>
+
+</form>
+
+<!-- 🔥 tombol statistik -->
+<button onclick="window.location.href='/riwayat'" class="btn-secondary">
+📊 Lihat Statistik
+</button>
+
+
+
+</div>
+
+</body>
+</html>

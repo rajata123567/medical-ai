@@ -1,0 +1,337 @@
+gejala,umur,gender,obat,dosis,efek
+diare,55,Perempuan,Antasida,3x sehari,Mengantuk
+migrain,43,Perempuan,Paracetamol,3x sehari,Pusing
+flu,37,Perempuan,Decolgen,1x sehari,Pusing
+batuk berdahak,55,Laki-laki,Ambroxol,3x sehari,Pusing
+batuk kering,7,Laki-laki,OBH Combi,Dosis anak,Mengantuk
+migrain,34,Laki-laki,Ibuprofen,Dosis anak,Mengantuk
+diare,36,Perempuan,Antasida,3x sehari,Mual
+batuk kering,48,Perempuan,Ambroxol,3x sehari,Aman
+mual,35,Perempuan,Domperidone,Dosis anak,Mual
+batuk berdahak,57,Perempuan,OBH Combi,1x sehari,Mual
+batuk kering,47,Perempuan,OBH Combi,1x sehari,Mual
+batuk kering,34,Laki-laki,Ambroxol,3x sehari,Aman
+batuk kering,46,Perempuan,Ambroxol,3x sehari,Mual
+sakit kepala,25,Perempuan,Ibuprofen,3x sehari,Aman
+pilek,20,Perempuan,Decolgen,1x sehari,Pusing
+demam tinggi,36,Laki-laki,Paracetamol,1x sehari,Mengantuk
+meriang,47,Perempuan,Ibuprofen,3x sehari,Pusing
+nyeri otot,32,Laki-laki,Ibuprofen,2x sehari,Mual
+hidung tersumbat,9,Perempuan,Decolgen,Dosis anak,Mengantuk
+migrain,20,Laki-laki,Paracetamol,1x sehari,Mengantuk
+maag,39,Laki-laki,Oralit,2x sehari,Aman
+nyeri otot,33,Laki-laki,Ibuprofen,2x sehari,Mengantuk
+meriang,12,Perempuan,Ibuprofen,1x sehari,Mengantuk
+sakit kepala,22,Laki-laki,Paracetamol,1x sehari,Pusing
+diare,55,Perempuan,Antasida,3x sehari,Pusing
+batuk kering,8,Laki-laki,Ambroxol,Dosis anak,Aman
+panas,36,Perempuan,Paracetamol,2x sehari,Mual
+meriang,56,Perempuan,Ibuprofen,2x sehari,Mual
+batuk berdahak,9,Perempuan,OBH Combi,Dosis anak,Aman
+hidung tersumbat,17,Perempuan,Decolgen,2x sehari,Aman
+nyeri otot,32,Perempuan,Ibuprofen,2x sehari,Mengantuk
+sakit kepala,12,Perempuan,Ibuprofen,Dosis anak,Aman
+batuk berdahak,22,Perempuan,OBH Combi,1x sehari,Mual
+batuk kering,55,Laki-laki,OBH Combi,1x sehari,Pusing
+migrain,42,Laki-laki,Paracetamol,Dosis anak,Aman
+sakit kepala,36,Laki-laki,Paracetamol,3x sehari,Aman
+demam,37,Laki-laki,Paracetamol,Dosis anak,Mengantuk
+meriang,11,Laki-laki,Paracetamol,2x sehari,Mual
+maag,42,Laki-laki,Oralit,Dosis anak,Mengantuk
+mual,35,Perempuan,Oralit,2x sehari,Mual
+hidung tersumbat,55,Laki-laki,Decolgen,3x sehari,Mual
+nyeri otot,26,Laki-laki,Ibuprofen,1x sehari,Mengantuk
+flu,25,Perempuan,Decolgen,2x sehari,Pusing
+batuk kering,54,Laki-laki,Ambroxol,2x sehari,Pusing
+sakit kepala,41,Perempuan,Ibuprofen,Dosis anak,Mual
+batuk kering,38,Laki-laki,OBH Combi,1x sehari,Aman
+diare,40,Perempuan,Domperidone,1x sehari,Aman
+meriang,15,Perempuan,Paracetamol,Dosis anak,Mengantuk
+nyeri otot,47,Laki-laki,Paracetamol,2x sehari,Pusing
+batuk kering,48,Perempuan,Ambroxol,1x sehari,Mengantuk
+hidung tersumbat,53,Perempuan,Decolgen,Dosis anak,Mengantuk
+pilek,53,Laki-laki,Decolgen,1x sehari,Mual
+batuk kering,45,Perempuan,Ambroxol,2x sehari,Pusing
+flu,36,Perempuan,Decolgen,2x sehari,Mual
+demam tinggi,32,Perempuan,Paracetamol,3x sehari,Pusing
+demam tinggi,31,Laki-laki,Ibuprofen,Dosis anak,Pusing
+panas,20,Perempuan,Paracetamol,3x sehari,Aman
+batuk berdahak,38,Perempuan,Ambroxol,Dosis anak,Pusing
+demam,41,Laki-laki,Paracetamol,1x sehari,Aman
+mual,31,Laki-laki,Domperidone,3x sehari,Mengantuk
+mual,11,Laki-laki,Antasida,Dosis anak,Aman
+sakit kepala,13,Laki-laki,Paracetamol,2x sehari,Aman
+batuk berdahak,19,Laki-laki,Ambroxol,1x sehari,Mengantuk
+migrain,21,Perempuan,Paracetamol,1x sehari,Pusing
+diare,26,Perempuan,Domperidone,2x sehari,Aman
+diare,16,Perempuan,Oralit,1x sehari,Mual
+mual,35,Perempuan,Domperidone,Dosis anak,Mual
+pilek,7,Perempuan,Decolgen,3x sehari,Mengantuk
+batuk kering,11,Laki-laki,OBH Combi,1x sehari,Aman
+diare,9,Perempuan,Domperidone,Dosis anak,Pusing
+batuk kering,54,Laki-laki,OBH Combi,1x sehari,Aman
+batuk kering,52,Perempuan,Ambroxol,1x sehari,Mual
+batuk kering,25,Perempuan,Ambroxol,1x sehari,Mengantuk
+pilek,20,Laki-laki,Decolgen,Dosis anak,Pusing
+hidung tersumbat,48,Laki-laki,Decolgen,3x sehari,Mengantuk
+meriang,59,Perempuan,Paracetamol,1x sehari,Mengantuk
+batuk berdahak,26,Perempuan,OBH Combi,2x sehari,Mengantuk
+demam,40,Laki-laki,Ibuprofen,1x sehari,Mual
+maag,22,Laki-laki,Oralit,1x sehari,Mengantuk
+diare,10,Laki-laki,Oralit,2x sehari,Aman
+hidung tersumbat,21,Perempuan,Decolgen,3x sehari,Aman
+batuk kering,48,Perempuan,Ambroxol,Dosis anak,Mual
+sakit kepala,27,Laki-laki,Ibuprofen,2x sehari,Pusing
+hidung tersumbat,59,Laki-laki,Decolgen,Dosis anak,Pusing
+nyeri otot,46,Laki-laki,Paracetamol,3x sehari,Pusing
+batuk berdahak,12,Laki-laki,OBH Combi,1x sehari,Mual
+maag,44,Laki-laki,Antasida,Dosis anak,Mengantuk
+hidung tersumbat,46,Perempuan,Decolgen,3x sehari,Mengantuk
+nyeri otot,19,Laki-laki,Ibuprofen,Dosis anak,Mengantuk
+batuk berdahak,8,Perempuan,Ambroxol,1x sehari,Mengantuk
+hidung tersumbat,45,Laki-laki,Decolgen,Dosis anak,Aman
+diare,11,Perempuan,Domperidone,2x sehari,Aman
+mual,56,Laki-laki,Domperidone,2x sehari,Pusing
+demam,33,Laki-laki,Ibuprofen,1x sehari,Mengantuk
+batuk kering,16,Laki-laki,Ambroxol,3x sehari,Aman
+batuk berdahak,7,Laki-laki,OBH Combi,3x sehari,Pusing
+nyeri otot,19,Laki-laki,Paracetamol,1x sehari,Pusing
+nyeri otot,12,Laki-laki,Paracetamol,2x sehari,Mual
+batuk berdahak,14,Perempuan,Ambroxol,2x sehari,Mengantuk
+maag,11,Perempuan,Oralit,1x sehari,Pusing
+batuk berdahak,56,Perempuan,Ambroxol,3x sehari,Mual
+demam,43,Perempuan,Ibuprofen,1x sehari,Mual
+batuk berdahak,22,Perempuan,Ambroxol,Dosis anak,Mengantuk
+sakit kepala,18,Perempuan,Ibuprofen,2x sehari,Mual
+maag,33,Laki-laki,Antasida,1x sehari,Aman
+pilek,44,Laki-laki,Decolgen,2x sehari,Pusing
+batuk kering,14,Laki-laki,OBH Combi,3x sehari,Mual
+diare,10,Perempuan,Oralit,Dosis anak,Pusing
+hidung tersumbat,54,Perempuan,Decolgen,Dosis anak,Mengantuk
+diare,33,Perempuan,Antasida,1x sehari,Mengantuk
+mual,5,Perempuan,Oralit,2x sehari,Mengantuk
+demam,6,Laki-laki,Paracetamol,3x sehari,Aman
+batuk kering,21,Laki-laki,Ambroxol,3x sehari,Aman
+batuk kering,50,Perempuan,Ambroxol,Dosis anak,Aman
+migrain,53,Perempuan,Paracetamol,1x sehari,Aman
+migrain,8,Laki-laki,Ibuprofen,1x sehari,Aman
+hidung tersumbat,24,Perempuan,Decolgen,2x sehari,Mengantuk
+nyeri otot,14,Perempuan,Ibuprofen,2x sehari,Aman
+sakit kepala,10,Laki-laki,Ibuprofen,1x sehari,Mual
+panas,58,Perempuan,Paracetamol,3x sehari,Mengantuk
+panas,12,Perempuan,Paracetamol,3x sehari,Mengantuk
+sakit kepala,37,Perempuan,Ibuprofen,2x sehari,Mengantuk
+batuk berdahak,31,Perempuan,Ambroxol,1x sehari,Pusing
+maag,47,Laki-laki,Oralit,2x sehari,Mual
+batuk kering,23,Perempuan,Ambroxol,3x sehari,Pusing
+batuk berdahak,15,Perempuan,OBH Combi,Dosis anak,Mual
+hidung tersumbat,43,Perempuan,Decolgen,Dosis anak,Mengantuk
+migrain,53,Laki-laki,Ibuprofen,3x sehari,Aman
+demam tinggi,26,Laki-laki,Paracetamol,Dosis anak,Mual
+meriang,39,Laki-laki,Ibuprofen,1x sehari,Mual
+nyeri otot,38,Laki-laki,Paracetamol,Dosis anak,Pusing
+diare,36,Perempuan,Domperidone,3x sehari,Aman
+nyeri otot,12,Perempuan,Ibuprofen,Dosis anak,Mual
+mual,33,Laki-laki,Oralit,1x sehari,Pusing
+mual,60,Perempuan,Oralit,3x sehari,Mual
+demam,7,Laki-laki,Ibuprofen,1x sehari,Aman
+mual,21,Laki-laki,Domperidone,Dosis anak,Aman
+maag,53,Perempuan,Oralit,3x sehari,Aman
+demam,51,Laki-laki,Ibuprofen,1x sehari,Mual
+sakit kepala,36,Perempuan,Paracetamol,1x sehari,Aman
+batuk kering,6,Perempuan,Ambroxol,1x sehari,Aman
+maag,22,Perempuan,Domperidone,2x sehari,Mengantuk
+hidung tersumbat,11,Perempuan,Decolgen,2x sehari,Pusing
+maag,33,Laki-laki,Domperidone,2x sehari,Aman
+batuk berdahak,11,Perempuan,OBH Combi,1x sehari,Aman
+sakit kepala,39,Laki-laki,Ibuprofen,2x sehari,Aman
+panas,9,Perempuan,Paracetamol,2x sehari,Mengantuk
+meriang,23,Perempuan,Paracetamol,1x sehari,Pusing
+migrain,20,Laki-laki,Paracetamol,1x sehari,Mengantuk
+diare,54,Laki-laki,Oralit,1x sehari,Aman
+batuk berdahak,19,Perempuan,OBH Combi,2x sehari,Aman
+meriang,56,Perempuan,Ibuprofen,Dosis anak,Mual
+migrain,18,Perempuan,Paracetamol,1x sehari,Mengantuk
+nyeri otot,21,Laki-laki,Ibuprofen,1x sehari,Pusing
+batuk kering,41,Laki-laki,OBH Combi,1x sehari,Mual
+hidung tersumbat,42,Perempuan,Decolgen,Dosis anak,Pusing
+hidung tersumbat,56,Perempuan,Decolgen,Dosis anak,Aman
+sakit kepala,21,Laki-laki,Paracetamol,3x sehari,Aman
+migrain,20,Laki-laki,Ibuprofen,3x sehari,Aman
+demam,8,Laki-laki,Paracetamol,1x sehari,Aman
+mual,25,Perempuan,Oralit,2x sehari,Aman
+batuk berdahak,54,Perempuan,OBH Combi,2x sehari,Pusing
+batuk berdahak,45,Perempuan,OBH Combi,3x sehari,Mengantuk
+hidung tersumbat,19,Laki-laki,Decolgen,Dosis anak,Mual
+hidung tersumbat,8,Laki-laki,Decolgen,3x sehari,Mengantuk
+mual,20,Perempuan,Domperidone,Dosis anak,Mengantuk
+hidung tersumbat,7,Laki-laki,Decolgen,2x sehari,Aman
+batuk berdahak,27,Laki-laki,Ambroxol,Dosis anak,Pusing
+sakit kepala,22,Laki-laki,Ibuprofen,Dosis anak,Pusing
+batuk kering,48,Laki-laki,Ambroxol,2x sehari,Aman
+flu,11,Laki-laki,Decolgen,1x sehari,Aman
+mual,42,Perempuan,Domperidone,3x sehari,Mengantuk
+sakit kepala,20,Perempuan,Paracetamol,3x sehari,Mengantuk
+sakit kepala,43,Perempuan,Ibuprofen,2x sehari,Mual
+batuk kering,42,Perempuan,Ambroxol,Dosis anak,Aman
+panas,53,Laki-laki,Paracetamol,3x sehari,Mual
+batuk kering,10,Laki-laki,OBH Combi,Dosis anak,Pusing
+diare,53,Laki-laki,Domperidone,3x sehari,Mual
+demam tinggi,18,Laki-laki,Ibuprofen,1x sehari,Aman
+demam tinggi,18,Laki-laki,Ibuprofen,2x sehari,Mual
+batuk berdahak,17,Perempuan,Ambroxol,2x sehari,Aman
+panas,36,Perempuan,Ibuprofen,Dosis anak,Mual
+batuk berdahak,55,Perempuan,Ambroxol,Dosis anak,Mual
+flu,14,Laki-laki,Decolgen,2x sehari,Mengantuk
+sakit kepala,46,Perempuan,Ibuprofen,3x sehari,Mual
+mual,46,Perempuan,Antasida,3x sehari,Mengantuk
+hidung tersumbat,35,Laki-laki,Decolgen,3x sehari,Aman
+batuk kering,6,Perempuan,OBH Combi,3x sehari,Mual
+pilek,7,Laki-laki,Decolgen,Dosis anak,Mual
+flu,41,Laki-laki,Decolgen,1x sehari,Pusing
+sakit kepala,57,Laki-laki,Ibuprofen,Dosis anak,Mengantuk
+batuk kering,32,Perempuan,Ambroxol,1x sehari,Mengantuk
+pilek,41,Perempuan,Decolgen,3x sehari,Mengantuk
+maag,5,Perempuan,Oralit,Dosis anak,Mengantuk
+demam tinggi,18,Perempuan,Ibuprofen,Dosis anak,Pusing
+migrain,47,Laki-laki,Ibuprofen,2x sehari,Mual
+meriang,8,Laki-laki,Ibuprofen,2x sehari,Mengantuk
+pilek,8,Perempuan,Decolgen,2x sehari,Aman
+hidung tersumbat,54,Laki-laki,Decolgen,3x sehari,Mual
+batuk kering,6,Perempuan,OBH Combi,2x sehari,Aman
+meriang,53,Laki-laki,Ibuprofen,3x sehari,Mual
+migrain,40,Perempuan,Ibuprofen,1x sehari,Mual
+meriang,38,Perempuan,Ibuprofen,1x sehari,Aman
+flu,28,Laki-laki,Decolgen,2x sehari,Aman
+batuk berdahak,54,Laki-laki,OBH Combi,3x sehari,Mengantuk
+batuk kering,6,Laki-laki,Ambroxol,1x sehari,Aman
+nyeri otot,27,Laki-laki,Ibuprofen,1x sehari,Pusing
+migrain,39,Perempuan,Paracetamol,Dosis anak,Pusing
+mual,45,Perempuan,Oralit,2x sehari,Aman
+demam,28,Laki-laki,Ibuprofen,2x sehari,Mual
+flu,58,Laki-laki,Decolgen,3x sehari,Pusing
+diare,55,Perempuan,Domperidone,1x sehari,Mual
+migrain,7,Perempuan,Ibuprofen,3x sehari,Aman
+batuk berdahak,7,Laki-laki,Ambroxol,Dosis anak,Mual
+hidung tersumbat,52,Perempuan,Decolgen,3x sehari,Mengantuk
+sakit kepala,40,Laki-laki,Ibuprofen,2x sehari,Mual
+demam,25,Perempuan,Ibuprofen,3x sehari,Mengantuk
+hidung tersumbat,27,Laki-laki,Decolgen,1x sehari,Mengantuk
+hidung tersumbat,26,Perempuan,Decolgen,2x sehari,Mengantuk
+batuk berdahak,41,Laki-laki,OBH Combi,Dosis anak,Pusing
+batuk berdahak,7,Perempuan,Ambroxol,3x sehari,Mual
+batuk berdahak,30,Laki-laki,Ambroxol,3x sehari,Mual
+batuk kering,12,Laki-laki,Ambroxol,2x sehari,Mual
+meriang,17,Laki-laki,Paracetamol,Dosis anak,Pusing
+diare,30,Perempuan,Domperidone,3x sehari,Mengantuk
+diare,14,Perempuan,Antasida,3x sehari,Aman
+demam tinggi,47,Perempuan,Ibuprofen,Dosis anak,Pusing
+maag,52,Laki-laki,Domperidone,2x sehari,Pusing
+panas,16,Laki-laki,Ibuprofen,2x sehari,Mengantuk
+hidung tersumbat,60,Perempuan,Decolgen,2x sehari,Mengantuk
+migrain,10,Perempuan,Paracetamol,1x sehari,Pusing
+batuk berdahak,9,Laki-laki,OBH Combi,1x sehari,Mengantuk
+migrain,7,Laki-laki,Ibuprofen,1x sehari,Aman
+nyeri otot,43,Laki-laki,Ibuprofen,1x sehari,Aman
+batuk berdahak,18,Laki-laki,Ambroxol,1x sehari,Aman
+sakit kepala,52,Perempuan,Ibuprofen,1x sehari,Aman
+migrain,45,Perempuan,Paracetamol,3x sehari,Pusing
+maag,53,Laki-laki,Domperidone,2x sehari,Aman
+meriang,18,Laki-laki,Ibuprofen,2x sehari,Aman
+flu,22,Perempuan,Decolgen,2x sehari,Pusing
+hidung tersumbat,51,Perempuan,Decolgen,Dosis anak,Pusing
+panas,9,Laki-laki,Paracetamol,2x sehari,Mengantuk
+migrain,41,Perempuan,Ibuprofen,Dosis anak,Pusing
+mual,46,Perempuan,Oralit,3x sehari,Aman
+pilek,47,Laki-laki,Decolgen,1x sehari,Pusing
+demam,26,Laki-laki,Ibuprofen,3x sehari,Pusing
+pilek,16,Laki-laki,Decolgen,Dosis anak,Pusing
+hidung tersumbat,8,Perempuan,Decolgen,3x sehari,Mengantuk
+demam,17,Perempuan,Ibuprofen,Dosis anak,Mual
+sakit kepala,25,Laki-laki,Ibuprofen,2x sehari,Pusing
+hidung tersumbat,9,Laki-laki,Decolgen,1x sehari,Mengantuk
+sakit kepala,6,Perempuan,Paracetamol,2x sehari,Pusing
+hidung tersumbat,46,Perempuan,Decolgen,3x sehari,Mual
+demam tinggi,46,Perempuan,Ibuprofen,3x sehari,Mengantuk
+mual,44,Perempuan,Antasida,1x sehari,Pusing
+demam tinggi,14,Perempuan,Paracetamol,1x sehari,Mual
+sakit kepala,36,Laki-laki,Ibuprofen,Dosis anak,Aman
+meriang,51,Laki-laki,Paracetamol,1x sehari,Aman
+batuk berdahak,30,Perempuan,Ambroxol,3x sehari,Pusing
+panas,16,Perempuan,Paracetamol,3x sehari,Mual
+demam,47,Perempuan,Ibuprofen,Dosis anak,Mengantuk
+maag,13,Perempuan,Domperidone,Dosis anak,Mual
+batuk kering,17,Perempuan,Ambroxol,1x sehari,Mengantuk
+flu,16,Perempuan,Decolgen,3x sehari,Aman
+flu,29,Laki-laki,Decolgen,1x sehari,Mengantuk
+batuk berdahak,18,Laki-laki,Ambroxol,1x sehari,Aman
+migrain,59,Perempuan,Ibuprofen,1x sehari,Mual
+panas,55,Perempuan,Paracetamol,1x sehari,Aman
+hidung tersumbat,22,Perempuan,Decolgen,3x sehari,Aman
+meriang,7,Laki-laki,Ibuprofen,Dosis anak,Aman
+nyeri otot,50,Perempuan,Paracetamol,3x sehari,Mengantuk
+demam tinggi,25,Laki-laki,Ibuprofen,2x sehari,Mengantuk
+hidung tersumbat,59,Laki-laki,Decolgen,3x sehari,Mengantuk
+hidung tersumbat,38,Perempuan,Decolgen,Dosis anak,Mengantuk
+batuk kering,38,Laki-laki,Ambroxol,Dosis anak,Aman
+demam tinggi,39,Laki-laki,Ibuprofen,1x sehari,Mual
+migrain,43,Perempuan,Ibuprofen,3x sehari,Mengantuk
+hidung tersumbat,27,Laki-laki,Decolgen,2x sehari,Mengantuk
+nyeri otot,30,Perempuan,Ibuprofen,3x sehari,Mengantuk
+demam,17,Perempuan,Ibuprofen,1x sehari,Pusing
+batuk kering,32,Laki-laki,OBH Combi,1x sehari,Mengantuk
+panas,38,Laki-laki,Ibuprofen,Dosis anak,Mual
+nyeri otot,60,Laki-laki,Ibuprofen,1x sehari,Pusing
+demam,5,Laki-laki,Paracetamol,2x sehari,Aman
+pilek,41,Perempuan,Decolgen,2x sehari,Mengantuk
+nyeri otot,53,Laki-laki,Paracetamol,1x sehari,Mual
+meriang,52,Laki-laki,Ibuprofen,1x sehari,Mengantuk
+batuk berdahak,40,Laki-laki,Ambroxol,2x sehari,Mual
+batuk berdahak,10,Laki-laki,Ambroxol,3x sehari,Mengantuk
+hidung tersumbat,49,Laki-laki,Decolgen,2x sehari,Aman
+flu,46,Laki-laki,Decolgen,1x sehari,Aman
+hidung tersumbat,24,Perempuan,Decolgen,Dosis anak,Mengantuk
+meriang,52,Perempuan,Paracetamol,Dosis anak,Mual
+hidung tersumbat,47,Laki-laki,Decolgen,Dosis anak,Mengantuk
+demam tinggi,5,Perempuan,Paracetamol,1x sehari,Aman
+mual,44,Laki-laki,Antasida,Dosis anak,Aman
+sakit kepala,45,Perempuan,Ibuprofen,Dosis anak,Mengantuk
+diare,17,Perempuan,Oralit,3x sehari,Mual
+diare,24,Perempuan,Oralit,2x sehari,Mual
+batuk berdahak,8,Perempuan,Ambroxol,Dosis anak,Mengantuk
+maag,45,Laki-laki,Antasida,3x sehari,Kembung
+maag,32,Perempuan,Omeprazole,1x sehari,Mual
+maag,28,Laki-laki,Antasida,3x sehari,Aman
+maag,50,Perempuan,Ranitidine,2x sehari,Pusing
+diare,27,Laki-laki,Oralit,3x sehari,Aman
+diare,35,Perempuan,Loperamide,2x sehari,Sembelit
+diare,22,Laki-laki,Oralit,3x sehari,Aman
+diare,41,Perempuan,Loperamide,2x sehari,Sembelit
+mual,19,Laki-laki,Domperidone,2x sehari,Pusing
+mual,24,Perempuan,Ondansetron,1x sehari,Pusing
+mual,30,Laki-laki,Domperidone,2x sehari,Aman
+mual,38,Perempuan,Ondansetron,1x sehari,Pusing
+darah rendah,40,Laki-laki,Suplemen Zat Besi,1x sehari,Mual
+darah rendah,29,Perempuan,Suplemen Zat Besi,1x sehari,Mual
+darah rendah,35,Laki-laki,Vitamin B12,1x sehari,Aman
+darah rendah,26,Perempuan,Vitamin B12,1x sehari,Aman
+darah tinggi,50,Laki-laki,Amlodipine,1x sehari,Pusing
+darah tinggi,47,Perempuan,Captopril,2x sehari,Batuk kering
+darah tinggi,55,Laki-laki,Amlodipine,1x sehari,Pusing
+darah tinggi,60,Perempuan,Captopril,2x sehari,Batuk kering
+pusing,30,Laki-laki,Paracetamol,2x sehari,Mengantuk
+pusing,28,Perempuan,Ibuprofen,2x sehari,Iritasi lambung
+pusing,35,Laki-laki,Paracetamol,2x sehari,Aman
+pusing,42,Perempuan,Ibuprofen,2x sehari,Iritasi lambung
+batuk,33,Laki-laki,OBH Combi,2x sehari,Mengantuk
+batuk,25,Perempuan,Ambroxol,3x sehari,Mual
+batuk,29,Laki-laki,OBH Combi,2x sehari,Mengantuk
+batuk,36,Perempuan,Ambroxol,3x sehari,Mual
+demam,27,Laki-laki,Paracetamol,3x sehari,Mengantuk
+demam,34,Perempuan,Ibuprofen,2x sehari,Iritasi lambung
+demam,21,Laki-laki,Paracetamol,3x sehari,Aman
+demam,38,Perempuan,Ibuprofen,2x sehari,Iritasi lambung
+gatal gatal,20,Laki-laki,CTM,2x sehari,Mengantuk
+gatal gatal,25,Perempuan,Loratadine,1x sehari,Aman
+gatal gatal,30,Laki-laki,CTM,2x sehari,Mengantuk
+gatal gatal,35,Perempuan,Loratadine,1x sehari,Aman

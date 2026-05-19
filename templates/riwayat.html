@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Dashboard Analytics</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+background:linear-gradient(135deg,#0f172a,#1e40af);
+color:white;
+display:flex;
+justify-content:center;
+}
+
+.container{
+width:90%;
+max-width:1100px;
+margin-top:30px;
+}
+
+.card{
+background: rgba(255,255,255,0.08);
+padding:20px;
+border-radius:20px;
+margin-bottom:20px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
+}
+
+.chart-box{
+height:300px;
+}
+
+canvas{
+width:100% !important;
+height:100% !important;
+}
+
+table{
+width:100%;
+background:white;
+color:black;
+border-radius:10px;
+overflow:hidden;
+}
+
+th, td{
+padding:10px;
+text-align:center;
+}
+
+button{
+padding:10px 15px;
+border:none;
+border-radius:10px;
+cursor:pointer;
+margin-top:10px;
+}
+
+.btn-back{background:#22c55e;color:white;}
+.btn-delete{background:#ef4444;color:white;}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+<h2>Total Pasien: {{ total_pasien }}</h2>
+
+<button class="btn-back" onclick="window.location.href='/'">
+⬅ Kembali Isi Data
+</button>
+</div>
+
+<div class="grid">
+
+<div class="card">
+<h3>Distribusi Gender</h3>
+<div class="chart-box">
+<canvas id="genderChart"></canvas>
+</div>
+</div>
+
+<div class="card">
+<h3>Gejala Terbanyak</h3>
+<div class="chart-box">
+<canvas id="gejalaChart"></canvas>
+</div>
+</div>
+
+</div>
+
+<div class="card">
+<h3>Obat Terbanyak</h3>
+<div class="chart-box">
+<canvas id="obatChart"></canvas>
+</div>
+</div>
+
+<div class="card">
+<h3>Riwayat Konsultasi</h3>
+
+<table>
+<tr>
+<th>Nama</th>
+<th>Umur</th>
+<th>Gender</th>
+<th>Gejala</th>
+<th>Obat</th>
+<th>Aksi</th>
+</tr>
+
+{% for row in data %}
+<tr>
+<td>{{ row[1] }}</td>
+<td>{{ row[2] }}</td>
+<td>{{ row[3] }}</td>
+<td>{{ row[4] }}</td>
+<td>{{ row[5] }}</td>
+<td><a href="/hapus/{{ row[0] }}">🗑</a></td>
+</tr>
+{% endfor %}
+
+</table>
+
+<br>
+
+<button class="btn-delete" onclick="window.location.href='/hapus_semua'">
+🗑 Hapus Semua
+</button>
+
+</div>
+
+</div>
+
+<script>
+// ================= GENDER
+new Chart(document.getElementById("genderChart"), {
+type: 'pie',
+data: {
+labels: ['Laki-laki','Perempuan'],
+datasets: [{
+data: [
+{{ laki if laki else 0 }},
+{{ perempuan if perempuan else 0 }}
+],
+backgroundColor:['#38bdf8','#f472b6']
+}]
+},
+options:{responsive:true, maintainAspectRatio:false}
+});
+
+// ================= GEJALA
+new Chart(document.getElementById("gejalaChart"), {
+type: 'bar',
+data: {
+labels: {{ gejala_label|tojson if gejala_label else "[]" }},
+datasets: [{
+label:'Jumlah',
+data: {{ gejala_value|tojson if gejala_value else "[]" }},
+backgroundColor:'#22c55e'
+}]
+},
+options:{responsive:true, maintainAspectRatio:false}
+});
+
+// ================= OBAT
+new Chart(document.getElementById("obatChart"), {
+type: 'bar',
+data: {
+labels: {{ obat_label|tojson if obat_label else "[]" }},
+datasets: [{
+label:'Jumlah',
+data: {{ obat_value|tojson if obat_value else "[]" }},
+backgroundColor:'#f97316'
+}]
+},
+options:{responsive:true, maintainAspectRatio:false}
+});
+</script>
+
+</body>
+</html>

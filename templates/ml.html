@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>ML Drug Prediction</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🤖 AI Drug Prediction</h1>
+
+    <form action="/predict_ml" method="POST">
+
+        <input type="number" name="age" placeholder="Umur" required>
+
+        <select name="sex">
+
+            <option value="F">Perempuan</option>
+
+            <option value="M">Laki-laki</option>
+
+        </select>
+
+        <select name="bp">
+
+            <option value="LOW">LOW</option>
+
+            <option value="NORMAL">NORMAL</option>
+
+            <option value="HIGH">HIGH</option>
+
+        </select>
+
+        <select name="chol">
+
+            <option value="NORMAL">NORMAL</option>
+
+            <option value="HIGH">HIGH</option>
+
+        </select>
+
+        <input
+            type="number"
+            step="0.1"
+            name="na_to_k"
+            placeholder="Na_to_K"
+            required
+        >
+
+        <button type="submit">
+            Prediksi Obat AI
+        </button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
